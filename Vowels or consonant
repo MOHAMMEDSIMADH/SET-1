@@ -1,0 +1,10 @@
+#MSD
+#vowels or consonant
+x=input()
+x.lower()
+if a=='a' or a=='e' or a=='i' or a=='o' or a=='u':
+    print("Vowel")
+elif :
+    print("consonant")
+else :
+    print ("Invalid")
