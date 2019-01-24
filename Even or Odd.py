@@ -1,3 +1,4 @@
+#MSD
 #Even or Odd
 b=int(input())
 if b%2==0 and b>0:
