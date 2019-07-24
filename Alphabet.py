@@ -1,8 +1,11 @@
-#MSD
-#Alphabet or Not alphabet
-print("enter the character")
-a=input()
-if a.isalpha() :
-    print ("the character is an alphabet")
-else :
-    print ("the character is not an alphabet")
+#include<stdio.h>
+#iclude<conio.h>
+int main()
+{
+char a,b;
+clrscr();
+printf("Enter the Name\t");
+scanf("%s",a);
+printf("%s",a)
+return 0;
+}
